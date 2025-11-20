@@ -12,7 +12,7 @@ I'm a master's student in **Artificial Intelligence** with hands-on experience a
 - **RAG Systems:** retrieval-augmented generation with **mathematical ontologies** and **RDF graph** knowledge bases  
 
 ### 📫 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/d-relli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-relli)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidemorelli.eng@gmail.com)
 
 <!-- Optional: Add GitHub stats or activity here -->
