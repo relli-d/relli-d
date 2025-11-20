@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Davide
 
-<!--
-**relli-d/relli-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Optional: Add a banner image here -->
+<!-- ![Banner](link-to-image) -->
 
-Here are some ideas to get you started:
+I'm a master's student in **Artificial Intelligence** with hands-on experience across multiple areas of modern AI and software development. I enjoy building systems that combine solid engineering with intelligent behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Worked On
+- **Web Development:** backend + frontend for small-scale applications  
+- **Data Processing:** cleaning, transforming, and organizing complex datasets  
+- **Reinforcement Learning:** deep RL agents, from simple control tasks to complex environments  
+- **RAG Systems:** retrieval-augmented generation with **mathematical ontologies** and **RDF graph** knowledge bases  
+
+### 📫 Get in Touch
+- **LinkedIn:** _(www.linkedin.com/in/d-relli)_  
+- **Email:** _(davidemorelli.eng@gmail.com)_
+
+<!-- Optional: Add GitHub stats or activity here -->
+<!-- ![GitHub Stats](link-to-stats-image) -->
+
+⭐️ _Thanks for stopping by!_
